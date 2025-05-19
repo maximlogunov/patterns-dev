@@ -1,0 +1,19 @@
+{
+  "name": "patterns-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximlogunov/patterns-dev.git"
+  },
+  "author": "Maksim Logunov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximlogunov/patterns-dev/issues"
+  },
+  "homepage": "https://github.com/maximlogunov/patterns-dev#readme",
+  "description": ""
+}
